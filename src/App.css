@@ -1,4 +1,5 @@
 .App {
+  text-rendering: auto;
   text-align: center;
 }
 
